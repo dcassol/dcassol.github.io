@@ -1,0 +1,14 @@
+---
+layout: default
+img: Master.JPG
+category: Education
+title: Master's in Plant Physiology
+description: |
+---
+
+* __2010 - 2012__
+* Federal University of Viçosa, Viçosa, Brazil
+* Production, accumulation and exudation of organic acids on aluminum toxicity in *Stylosanthes*.
+* Advisor: Dr. José Cambraia
+* Scholarship from: CNPq
+

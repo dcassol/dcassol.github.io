@@ -1,0 +1,14 @@
+---
+layout: default
+img: rice.JPG
+category: Education
+title: Bachelor's in Biological Sciences
+description: |
+---
+
+* __2005 - 2010__
+* Federal University of Pelotas, Pelotas, Brazil
+* Advisor: Dr. Marcos Antonio Bacarin
+* Scholarship from: FAPERGS and CNPq
+
+

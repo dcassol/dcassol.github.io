@@ -1,0 +1,13 @@
+---
+layout: default
+img: code.jpg
+category: Experiences
+title: "Postdoctoral Researcher"
+description: |
+---
+
+
+* __2017 – Current__
+* University of California, Riverside
+* Position: ​Postdoctoral Researcher under Dr. Thomas Girke
+* Activities: ​Current research focuses on the development of computational data analysis methods for genome biology.

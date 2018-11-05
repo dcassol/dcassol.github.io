@@ -1,0 +1,44 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.dcassol.com
+title: Daniela Cassol
+email: danicassol@gmail.com
+author: Daniela Cassol
+description: "Daniela's Personal Page"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+gems:
+  - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - icon: github
+    title: github
+    url: https://github.com/dcassol  
+  - icon: envelope-o
+    title: email
+    url: mailto:danicassol@gmail.com
+  - icon: linkedin
+    title: linkedin
+    url: https://www.linkedin.com/in/dcassol/
+  - icon: file-pdf-o
+    title: CV
+    url: http://www.dcassol/rsc/CV_CASSOL.pdf
+  - icon: website
+    title: CV Lattes
+    url: http://lattes.cnpq.br/5399100590606067
+  - icon: twitter
+    title: twitter
+    url: https://twitter.com/danicassol

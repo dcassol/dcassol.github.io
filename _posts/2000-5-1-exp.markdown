@@ -1,0 +1,12 @@
+---
+layout: default
+img: dna.png
+category: Experiences
+title: "Molecular Biology Bioinformatic Scientist"
+description: |
+---
+
+
+* __2016 – 2017__
+* *Biogenetika*
+* Conduct laboratory research in the areas of single nucleotide polymorphisms, DNA mutations, exomes sequencing and metagenomics. This involves data collection, DNA isolation, analysis and interpretation of results, including next generation sequencing data, bioinformatics analysis and writing reports.
