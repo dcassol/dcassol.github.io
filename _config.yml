@@ -36,9 +36,9 @@ social:
   - icon: file-pdf-o
     title: CV
     url: img/CassolDanielaCV.pdf
-  - icon: website
-    title: CV Lattes
-    url: http://lattes.cnpq.br/5399100590606067
+#  - icon: website
+#    title: CV Lattes
+#    url: http://lattes.cnpq.br/5399100590606067
   - icon: twitter
     title: twitter
     url: https://twitter.com/danicassol
