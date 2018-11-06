@@ -1,6 +1,4 @@
 
-# <a href="https://dcassol.com"> here </a> 
+This repository contains the code for my <a href="https://www.dcassol.com"> personal website </a>.
 
-This repository contains the code for my personal website.
-
-Original code from <a href="https://github.com/WesleyyC/wesleyyc.github.io"> here </a> 
+Original code from <a href="https://github.com/WesleyyC/wesleyyc.github.io"> here </a>.
