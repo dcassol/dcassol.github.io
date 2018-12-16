@@ -25,20 +25,20 @@ gems:
 
 social:
   - icon: github
- #   title: github
+    title: github
     url: https://github.com/dcassol  
   - icon: envelope-o
-  #  title: email
+    title: email
     url: mailto:danicassol@gmail.com
   - icon: linkedin
-  #  title: linkedin
+    title: linkedin
     url: https://www.linkedin.com/in/dcassol/
   - icon: file-pdf-o
-  #  title: CV
+    title: CV
     url: img/CassolDanielaCV.pdf
 #  - icon: website
 #    title: CV Lattes
 #    url: http://lattes.cnpq.br/5399100590606067
   - icon: twitter
-  #  title: twitter
+    title: twitter
     url: https://twitter.com/danicassol
