@@ -6,4 +6,6 @@ title: "List of Publications"
 description: |
 ---
 
-* test
+- [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
+- [GoogleScholar](https://scholar.google.com/citations?user=SJKCmboAAAAJ&hl=en)
+- [Complete list of publications](img/publication.pdf)
