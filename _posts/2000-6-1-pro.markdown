@@ -6,6 +6,4 @@ title: "systemPipeR"
 description: |
 ---
 
-It is still under development!!
-
-More infomation here: [systemPipeR](http://girke.bioinformatics.ucr.edu/systemPipeR/)
+* __systemPipeR__ is an R/Bioconductor package for building and running automated end-to-end analysis workflows for a wide range of next generation sequence (NGS) applications such as RNA-Seq, ChIP-Seq, VAR-Seq and Ribo-Seq. More infomation here: [systemPipeR](http://girke.bioinformatics.ucr.edu/systemPip
