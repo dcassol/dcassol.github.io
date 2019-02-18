@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 1-1-1-pro.png
+img: system.png
 category: Projects
 title: "systemPipeR"
 description: |
