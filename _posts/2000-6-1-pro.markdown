@@ -1,6 +1,6 @@
 ---
 layout: default
-img: system.png
+img: systemPipeR_site.png
 category: Projects
 title: "systemPipeR"
 description: |
