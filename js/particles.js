@@ -20,10 +20,10 @@ var pJS = function(tag_id, params){
     },
     particles: {
       number: {
-        value: 400,
+        value: 800,
         density: {
           enable: true,
-          value_area: 800
+          value_area: 1000
         }
       },
       color: {
@@ -1512,7 +1512,7 @@ window.particlesJS = function(tag_id, params){
   /* append canvas */
   var canvas = document.getElementById(tag_id).appendChild(canvas_el);
 
-  /* launch particle.js */
+  /* fch particle.js */
   if(canvas != null){
     pJSDom.push(new pJS(tag_id, params));
   }
