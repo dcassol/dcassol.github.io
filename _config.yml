@@ -16,7 +16,7 @@ description: "Daniela's Personal Page"
 markdown: kramdown
 permalink: pretty
 # Build sitemap
-gems:
+plugins:
   - jekyll-sitemap
 
 # ----------------------- #
