@@ -33,9 +33,9 @@ social:
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/dcassol/
-  - icon: file-pdf-o
-    title: CV
-    url: img/CassolDanielaCV.pdf
+#  - icon: file-pdf-o
+#    title: CV
+#    url: img/CassolDanielaCV.pdf
 #  - icon: website
 #    title: CV Lattes
 #    url: http://lattes.cnpq.br/5399100590606067
