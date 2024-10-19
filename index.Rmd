@@ -4,6 +4,8 @@ image: "photo/cabbin.jpg"
 links:
   - label: Linkedin
     url: "https://www.linkedin.com/in/dcassol/"
+  - label: CV
+    url: "https://www.dcassol.com/cv/"
   - label: GitHub
     url: "https://github.com/dcassol"
   - label: ORCID
@@ -14,6 +16,6 @@ output:
   postcards::solana
 ---
  
-## Bio
 
-Hi! I’m Daniela Cassol, a bioinformatics computing consultant at the DOE Joint Genome Institute in Berkeley, California. 
+Hi! I’m Daniela Cassol, a bioinformatics computing consultant at the DOE Joint Genome Institute, Lawrence Berkeley National Lab. I create tools and provide user support to make distributed computational workflows easier, faster, and more fun. I’m originally from Brazil, but I now call the Bay Area home.
+If you’d like to learn more about what we’re working on, feel free to check it out here.
