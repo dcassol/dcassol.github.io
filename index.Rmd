@@ -16,6 +16,10 @@ output:
  
 # 
 
-Hi! I’m Daniela Cassol, a bioinformatics computing consultant at the [DOE Joint Genome Institute](https://jgi.doe.gov/), Lawrence Berkeley National Lab. I create tools and provide user support to make distributed computational workflows easier, faster, and more fun. I’m originally from Brazil, but I now call the Bay Area home.
+Hi! I’m Daniela Cassol, Product Owner for the [JGI Analysis Workflow Service (JAWS)](https://jaws-docs.readthedocs.io/en/latest/index.html) at the [DOE Joint Genome Institute (JGI)](https://jgi.doe.gov/), part of Lawrence Berkeley National Laboratory.  
+
+I lead the development and strategy of JAWS, a distributed workflow execution system that powers large-scale, reproducible science across multiple DOE national laboratories. My work focuses on improving usability, performance, and collaboration to make complex computational workflows **easier, faster, and more fun** for scientists everywhere.  
+
+I’m originally from Brazil, but I now call the Bay Area home.
 
 If you’d like to learn more about what we’re working on, feel free to check it out [here](https://jaws-docs.readthedocs.io/en/latest/index.html).
